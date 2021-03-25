@@ -1,0 +1,1 @@
+Curious is a project where you can post your questions and get answers of your academics. You cannot directly post a question because there is a middleware which takes you to login if you have an account or you need to sign up. Curious is for students who don't find answers of their academics from other websites such as StackOverFlow etc,.
