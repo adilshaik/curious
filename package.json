@@ -1,5 +1,5 @@
 {
-  "name": "rsblogs",
+  "name": "curious",
   "version": "1.0.0",
   "description": "A blog website",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node index.js",
     "devStart": "nodemon index.js"
   },
-  "author": "Thushar",
+  "author": "Adil",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
